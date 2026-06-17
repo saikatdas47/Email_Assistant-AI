@@ -69,7 +69,7 @@ I built a fully functional **Email Generation Assistant** that uses Groq's fast 
 | **A (Advanced)** | 9.40 | 9.20 | 9.00 | 9.20 |
 | **B (Baseline)** | **9.50** | 9.10 | **9.20** | **🏆 9.27** |
 
-To make your submission bulletproof, take the following screenshots:
+Following screenshots:
 <img width="1200" height="" alt="ResultTerminalSSprove" src="https://github.com/user-attachments/assets/53fe2e7b-fd82-4b49-915f-c60d2844353d" />
 
 ### Key Insights:
