@@ -15,7 +15,7 @@ def generate_report(results: list, filename_prefix="evaluation_report"):
     """
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
-    # JSON আউটপুট
+    # JSON Output
     json_file = f"{filename_prefix}_{timestamp}.json"
     with open(json_file, "w") as f:
         json.dump(results, f, indent=2)
@@ -37,7 +37,7 @@ def generate_report(results: list, filename_prefix="evaluation_report"):
             })
     print(f"✅ CSV report saved: {csv_file}")
     
-    # পরিসংখ্যান প্রিন্ট করা
+    # Print overall averages for each strategy
     print("\n" + "="*50)
     print("📊 OVERALL AVERAGE SCORES")
     print("="*50)

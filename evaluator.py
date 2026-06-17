@@ -31,7 +31,7 @@ def evaluate_email(generated_email: str, facts: list, tone: str) -> dict:
         )
         raw_output = response.choices[0].message.content.strip()
         
-        # JSON খুঁজে বের করা (কারণ Groq JSON মোড দেয় না, কিন্তু JSON-সদৃশ টেক্সট দেয়)
+        
         json_match = re.search(r'\{.*\}', raw_output, re.DOTALL)
         if json_match:
             result = json.loads(json_match.group())

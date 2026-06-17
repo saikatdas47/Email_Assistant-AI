@@ -38,7 +38,7 @@ def run_experiment():
             "quality_structure": eval_b["quality_structure"]
         })
     
-    # রিপোর্ট জেনারেট করুন
+    # Report Generation
     json_file, csv_file = generate_report(all_results)
     
     # ---------- Comparative Analysis (Section 3) ----------
