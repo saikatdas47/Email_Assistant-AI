@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "strategy": "A",
+    "factual_coverage": 9,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 1,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 10,
+    "quality_structure": 10
+  },
+  {
+    "id": 2,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 2,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 10
+  },
+  {
+    "id": 3,
+    "strategy": "A",
+    "factual_coverage": 9,
+    "tone_adherence": 9,
+    "quality_structure": 8
+  },
+  {
+    "id": 3,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 4,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 4,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 5,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 10,
+    "quality_structure": 10
+  },
+  {
+    "id": 5,
+    "strategy": "B",
+    "factual_coverage": 9,
+    "tone_adherence": 10,
+    "quality_structure": 9
+  },
+  {
+    "id": 6,
+    "strategy": "A",
+    "factual_coverage": 8,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 6,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 10
+  },
+  {
+    "id": 7,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 7,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 10
+  },
+  {
+    "id": 8,
+    "strategy": "A",
+    "factual_coverage": 8,
+    "tone_adherence": 9,
+    "quality_structure": 8
+  },
+  {
+    "id": 8,
+    "strategy": "B",
+    "factual_coverage": 8,
+    "tone_adherence": 9,
+    "quality_structure": 8
+  },
+  {
+    "id": 9,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 10,
+    "quality_structure": 10
+  },
+  {
+    "id": 9,
+    "strategy": "B",
+    "factual_coverage": 8,
+    "tone_adherence": 9,
+    "quality_structure": 8
+  },
+  {
+    "id": 10,
+    "strategy": "A",
+    "factual_coverage": 10,
+    "tone_adherence": 9,
+    "quality_structure": 9
+  },
+  {
+    "id": 10,
+    "strategy": "B",
+    "factual_coverage": 10,
+    "tone_adherence": 8,
+    "quality_structure": 9
+  }
+]

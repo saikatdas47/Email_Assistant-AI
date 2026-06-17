@@ -1,2 +1,20 @@
-# Email_Assistant-AI
-I built a fully functional Email Generation Assistant that uses Groq's fast LLM API. I tested two different prompting strategies against 10 unique scenarios and evaluated them using 3 custom metrics via an LLM-as-a-Judge.
+# Email Generation Assistant (Groq Edition)
+
+## Setup
+1. Clone the repo.
+2. Create virtual env and install: pip install groq python-dotenv pandas
+3. Create `.env` with `GROQ_API_KEY=...`.
+
+## Run python main.py
+
+
+## Models Used
+- Generation: `mixtral-8x7b-32768` (fast & capable)
+- Judge: `llama3-70b-8192` (for high-quality evaluation)
+
+## Output
+- JSON and CSV reports with 3 custom metrics.
+- Console shows comparative analysis.
+
+## Note
+All prompts and evaluation logic are identical to the OpenAI version, just the backend is swapped with Groq for faster inference and free-tier benefits.
