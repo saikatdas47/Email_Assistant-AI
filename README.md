@@ -118,6 +118,7 @@ email_assistant/
 | **B (Baseline)** | **9.50** | 9.10 | **9.20** | **🏆 9.27** |
 
 **Conclusion**: Strategy B (Baseline) slightly outperformed Advanced prompting for this specific dataset. However, Strategy A is more robust for highly formal/complex requests.
+<img width="1200" height="" alt="evaluation_comparison_plot" src="https://github.com/user-attachments/assets/d546e75b-fe2a-4b90-af08-0c1ab660467e" />
 
 ## 🛠️ Built With
 
